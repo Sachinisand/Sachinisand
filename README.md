@@ -26,6 +26,7 @@ I turn scattered, inconsistent data into reliable KPIs and clear reporting that 
 
 | Project | What it answers | Tools |
 |---|---|---|
+| [**Workforce Cost & Attrition Model**](https://github.com/Sachinisand/Workforce-Cost-Attrition-Model) | Which employees are at risk of leaving, and what does acting cost vs. doing nothing? Integrated HR, payroll and benchmark data (synthetic, 524 employees); 24-month scenarios show targeted raises avoid **~€5.6M** vs. reactive backfilling. | Python · scikit-learn · ETL · Excel |
 | [**Customer Churn Prediction**](https://github.com/Sachinisand/Customer-Churn-Prediction) | Which telecom customers are likely to leave, and why? Logistic regression reached **ROC-AUC 0.84** on 7,000+ customers. | Python · scikit-learn · pandas |
 | [**Deutschlandticket Commute Analysis**](https://github.com/Sachinisand/Deutschlandticket-Commute-Analysis) | How many employees could switch to public transport? Graph model of ~120 Hamburg rail stations; estimated **~43% adoption** with a 30% subsidy. | Python · NetworkX · Plotly |
 | [**E-commerce SQL Case Study**](https://github.com/Sachinisand/E-commerce-SQL-Case-Study) | Who are the most valuable customers and products? RFM segmentation and revenue trends on **540k+ transactions**. | SQL · CTEs · window functions |
